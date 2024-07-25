@@ -1,2 +1,2 @@
 # devops
-Básico de DevOps com Git e Github no Linux Mint
+:dart:Básico de DevOps com Git e Github no Linux Mint:trophy:
